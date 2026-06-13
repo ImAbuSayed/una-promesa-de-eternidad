@@ -1,0 +1,247 @@
+Title: Una promesa de eternidad
+Clean Hash: dd15dc9e263a6d41e5ad4eee33cfe0edd086ed5fe497532380641d04b66a0b02
+Raw Hash: f30766d149c4947c6c557f49ba1ef896c8b20a3edf1ecc3a20602f23ffc86094
+Date: 2026-06-14T03:29:51.895637
+Version: 1
+----------------------------------------
+[RAW LYRICS]
+lyrics = """[Hook]
+Dime, ¿quién te va a querer como yo? (yeah)
+Bajo la luna llena de Madrid, sin control
+Tú eres la musa que enciende mi ambición
+Una promesa de eternidad, puro fuego y pasión
+
+[Verse 1]
+Noche oscura, copa en mano, VIP encendido
+Tú llegaste con ese vestido atrevido
+Diamantes que brillan, pero tú eres el tesoro
+Cada vez que me miras, baby, pierdo el decoro
+
+[Pre-Chorus]
+Y nos vamos acercando, lento, sin pensar
+En tus ojos veo que te quieres entregar
+
+[Chorus]
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+
+[Verse 2]
+Ropa de marca, perfume de Chanel
+Solo quiero probar el sabor de tu piel
+En Barcelona o en las calles de San Juan
+Tú eres mi reina, la dueña de mi plan
+
+[Pre-Chorus 2]
+Y el ritmo nos envuelve, sube la tensión
+Cada latido de tu pecho es mi adicción
+
+[Chorus]
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+
+[Verse 3]
+Tú tienes el flow que a mí me vuelve loco
+Vamos paso a paso, poquito a poco
+No hay prisa, mami, tenemos la madrugada
+Tú y yo juntos, no nos hace falta nada
+
+[Pre-Chorus 3]
+Y nos vamos acercando, lento, sin pensar
+En tus ojos veo que te quieres entregar
+
+[Chorus]
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+
+[Bridge]
+Saeed on the mic, yeah, bringing the heat
+Let the rhythm take over, feel the heavy beat
+Girl, your body language is speaking to my soul
+Every move you make, I'm losing all control
+Caught up in this moment, a magical trance
+Just give me one night, give me one more dance
+
+[Final Chorus]
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor (yeah)
+Una promesa de eternidad (oh)
+Solo tú y yo (oh)
+"""
+
+with open("lyric-raw.txt", "w", encoding="utf-8") as f:
+    f.write(lyrics)
+[Hook]
+Dime, ¿quién te va a querer como yo? (yeah)
+Bajo la luna llena de Madrid, sin control
+Tú eres la musa que enciende mi ambición
+Una promesa de eternidad, puro fuego y pasión
+
+[Verse 1]
+Noche oscura, copa en mano, VIP encendido
+Tú llegaste con ese vestido atrevido
+Diamantes que brillan, pero tú eres el tesoro
+Cada vez que me miras, baby, pierdo el decoro
+
+[Pre-Chorus]
+Y nos vamos acercando, lento, sin pensar
+En tus ojos veo que te quieres entregar
+
+[Chorus]
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+
+[Verse 2]
+Ropa de marca, perfume de Chanel
+Solo quiero probar el sabor de tu piel
+En Barcelona o en las calles de San Juan
+Tú eres mi reina, la dueña de mi plan
+
+[Pre-Chorus 2]
+Y el ritmo nos envuelve, sube la tensión
+Cada latido de tu pecho es mi adicción
+
+[Chorus]
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+
+[Verse 3]
+Tú tienes el flow que a mí me vuelve loco
+Vamos paso a paso, poquito a poco
+No hay prisa, mami, tenemos la madrugada
+Tú y yo juntos, no nos hace falta nada
+
+[Pre-Chorus 3]
+Y nos vamos acercando, lento, sin pensar
+En tus ojos veo que te quieres entregar
+
+[Chorus]
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+
+[Bridge]
+Saeed on the mic, yeah, bringing the heat
+Let the rhythm take over, feel the heavy beat
+Girl, your body language is speaking to my soul
+Every move you make, I'm losing all control
+Caught up in this moment, a magical trance
+Just give me one night, give me one more dance
+
+[Final Chorus]
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor (yeah)
+Una promesa de eternidad (oh)
+Solo tú y yo (oh)
+--------------------
+[CLEAN LYRICS]
+lyrics = """
+Dime, ¿quién te va a querer como yo?.. yeah..
+Bajo la luna llena de Madrid, sin control
+Tú eres la musa que enciende mi ambición
+Una promesa de eternidad, puro fuego y pasión
+Noche oscura, copa en mano, VIP encendido
+Tú llegaste con ese vestido atrevido
+Diamantes que brillan, pero tú eres el tesoro
+Cada vez que me miras, baby, pierdo el decoro
+Y nos vamos acercando, lento, sin pensar
+En tus ojos veo que te quieres entregar
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+Ropa de marca, perfume de Chanel
+Solo quiero probar el sabor de tu piel
+En Barcelona o en las calles de San Juan
+Tú eres mi reina, la dueña de mi plan
+Y el ritmo nos envuelve, sube la tensión
+Cada latido de tu pecho es mi adicción
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+Tú tienes el flow que a mí me vuelve loco
+Vamos paso a paso, poquito a poco
+No hay prisa, mami, tenemos la madrugada
+Tú y yo juntos, no nos hace falta nada
+Y nos vamos acercando, lento, sin pensar
+En tus ojos veo que te quieres entregar
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+Sayed on the mic, yeah, bringing the heat
+Let the rhythm take over, feel the heavy beat
+Girl, your body language is speaking to my soul
+Every move you make, I'm losing all control
+Caught up in this moment, a magical trance
+Just give me one night, give me one more dance
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor.. yeah..
+Una promesa de eternidad.. oh..
+Solo tú y yo.. oh..
+"""
+with open("lyric-raw.txt", "w", encoding="utf-8") as f:
+f.write.. lyrics..
+Dime, ¿quién te va a querer como yo?.. yeah..
+Bajo la luna llena de Madrid, sin control
+Tú eres la musa que enciende mi ambición
+Una promesa de eternidad, puro fuego y pasión
+Noche oscura, copa en mano, VIP encendido
+Tú llegaste con ese vestido atrevido
+Diamantes que brillan, pero tú eres el tesoro
+Cada vez que me miras, baby, pierdo el decoro
+Y nos vamos acercando, lento, sin pensar
+En tus ojos veo que te quieres entregar
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+Ropa de marca, perfume de Chanel
+Solo quiero probar el sabor de tu piel
+En Barcelona o en las calles de San Juan
+Tú eres mi reina, la dueña de mi plan
+Y el ritmo nos envuelve, sube la tensión
+Cada latido de tu pecho es mi adicción
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+Tú tienes el flow que a mí me vuelve loco
+Vamos paso a paso, poquito a poco
+No hay prisa, mami, tenemos la madrugada
+Tú y yo juntos, no nos hace falta nada
+Y nos vamos acercando, lento, sin pensar
+En tus ojos veo que te quieres entregar
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor
+Sayed on the mic, yeah, bringing the heat
+Let the rhythm take over, feel the heavy beat
+Girl, your body language is speaking to my soul
+Every move you make, I'm losing all control
+Caught up in this moment, a magical trance
+Just give me one night, give me one more dance
+Una promesa de eternidad, solo tú y yo
+En el asiento de atrás, donde nadie nos vio
+Bailando suavemente hasta que salga el sol
+Tú y yo, baby, rompiendo la ley del amor.. yeah..
+Una promesa de eternidad.. oh..
+Solo tú y yo.. oh..

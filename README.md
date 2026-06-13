@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/una-promesa-de-eternidad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Una promesa de eternidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-promesa-de-eternidad/) |
+| **Get License** | [Request Licensing for Una promesa de eternidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-promesa-de-eternidad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dd15dc9e263a6d41e5ad4eee33cfe0edd086ed5fe497532380641d04b66a0b02` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
