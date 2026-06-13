@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/una-promesa-de-eternidad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Una promesa de eternidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-promesa-de-eternidad/) |
+| **Get License** | [Get License For Una promesa de eternidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-promesa-de-eternidad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> lyrics = """
+> Dime, ¿quién te va a querer como yo?.. yeah..
+> Bajo la luna llena de Madrid, sin control
+> Tú eres la musa que enciende mi ambición
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
